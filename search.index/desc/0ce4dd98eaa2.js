@@ -1,0 +1,1 @@
+rd_("AkGenerate seed from mnemonicBcDerive master private key from seedCgGenerate a new BIP39 mnemonic (24 words for maximum \xe2\x80\xa6CjCreate printable output optimized for metal plate punchingCkCreate a simple text file with just the words (for easy \xe2\x80\xa6CkGet master key fingerprint in hardware wallet format (8 \xe2\x80\xa6")
